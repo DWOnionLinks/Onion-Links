@@ -1,5 +1,5 @@
 We have compiled a list of working and verified onion links to darknet markets and services. This is solely for educational reference. Users are strongly advised to adhere to legal and ethical standards. Engaging in illicit activities on the dark web or any other platform is against the law and can have serious consequences. This updated list of .onion links for 2024 is working and all dark web links have been meticulously compiled, edited, and maintained. All the provided links are accessible and available. Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, so we cannot comment on their quality; we simply checked to see whether or not they are up and running in 2024. Proceed at your own discretion.
-
+ ![2024 working onion links](https://github.com/DWOnionLinks/Onion-Links/blob/067001a6fe72e85c06523d39bc5a6e0fba621ebc/september%202024%20onion%20links.png)
 <h2>BEST ONION LINKS</h2>
 
 DarkWebHackers – Dark Web Hackers For Hire http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/
